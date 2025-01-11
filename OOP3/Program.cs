@@ -23,7 +23,7 @@ namespace OOP3
             //}
 
             #endregion
-
+             
             #region Q2
             //person[] persons = new person[3];
             //for (int i = 0; i < 3; i++)
